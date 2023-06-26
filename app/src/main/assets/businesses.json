@@ -1,0 +1,138 @@
+{
+  "businesses": [
+    {
+      "id": "wGl_DyNxSv8KUtYgiuLhmA",
+      "alias": "bi-rite-creamery-san-francisco",
+      "name": "Bi-Rite Creamery",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/k4ild0zOWGDOe-skHQ-Nug/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/bi-rite-creamery-san-francisco?adjust_creative=FmJg0Ypu4e2dCD1jmOWucQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FmJg0Ypu4e2dCD1jmOWucQ",
+      "review_count": 9824,
+      "categories": [
+        {
+          "alias": "icecream",
+          "title": "Ice Cream & Frozen Yogurt"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.761591,
+        "longitude": -122.425717
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "3692 18th St",
+        "address2": null,
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94110",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "3692 18th St",
+          "San Francisco, CA 94110"
+        ]
+      },
+      "phone": "+14156265600",
+      "display_phone": "(415) 626-5600",
+      "distance": 946.3867385272524
+    },
+    {
+      "id": "lJAGnYzku5zSaLnQ_T6_GQ",
+      "alias": "brendas-french-soul-food-san-francisco-6",
+      "name": "Brenda's French Soul Food",
+      "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/VJ865E7ULQWSNjKhNG57VQ/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/brendas-french-soul-food-san-francisco-6?adjust_creative=FmJg0Ypu4e2dCD1jmOWucQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FmJg0Ypu4e2dCD1jmOWucQ",
+      "review_count": 11597,
+      "categories": [
+        {
+          "alias": "breakfast_brunch",
+          "title": "Breakfast & Brunch"
+        },
+        {
+          "alias": "southern",
+          "title": "Southern"
+        },
+        {
+          "alias": "cajun",
+          "title": "Cajun/Creole"
+        }
+      ],
+      "rating": 4.0,
+      "coordinates": {
+        "latitude": 37.7829016035273,
+        "longitude": -122.419043442957
+      },
+      "transactions": [
+        "delivery"
+      ],
+      "price": "$$",
+      "location": {
+        "address1": "652 Polk St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94102",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "652 Polk St",
+          "San Francisco, CA 94102"
+        ]
+      },
+      "phone": "+14153458100",
+      "display_phone": "(415) 345-8100",
+      "distance": 2885.38913097158
+    },
+    {
+      "id": "WavvLdfdP6g8aZTtbBQHTw",
+      "alias": "gary-danko-san-francisco",
+      "name": "Gary Danko",
+      "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eyYUz3Xl7NtcJeN7x7SQwg/o.jpg",
+      "is_closed": false,
+      "url": "https://www.yelp.com/biz/gary-danko-san-francisco?adjust_creative=FmJg0Ypu4e2dCD1jmOWucQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=FmJg0Ypu4e2dCD1jmOWucQ",
+      "review_count": 5671,
+      "categories": [
+        {
+          "alias": "newamerican",
+          "title": "American (New)"
+        },
+        {
+          "alias": "french",
+          "title": "French"
+        },
+        {
+          "alias": "wine_bars",
+          "title": "Wine Bars"
+        }
+      ],
+      "rating": 4.5,
+      "coordinates": {
+        "latitude": 37.80587,
+        "longitude": -122.42058
+      },
+      "transactions": [],
+      "price": "$$$$",
+      "location": {
+        "address1": "800 N Point St",
+        "address2": "",
+        "address3": "",
+        "city": "San Francisco",
+        "zip_code": "94109",
+        "country": "US",
+        "state": "CA",
+        "display_address": [
+          "800 N Point St",
+          "San Francisco, CA 94109"
+        ]
+      },
+      "phone": "+14157492060",
+      "display_phone": "(415) 749-2060",
+      "distance": 5191.341803207417
+    }
+  ]
+}
